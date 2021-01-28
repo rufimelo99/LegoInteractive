@@ -1,0 +1,80 @@
+﻿  camera.cpp
+D:\Github\LegoInteractive\Final_PairAssignment\src\camera.cpp(5,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Github\LegoInteractive\Final_PairAssignment\src\camera.cpp(12,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Github\LegoInteractive\Final_PairAssignment\src\camera.cpp(49,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\camera.cpp(102,55): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Github\LegoInteractive\Final_PairAssignment\src\camera.cpp(108,63): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Github\LegoInteractive\Final_PairAssignment\src\camera.cpp(109,29): warning C4305: '=': truncation from 'double' to 'float'
+D:\Github\LegoInteractive\Final_PairAssignment\src\camera.cpp(110,32): warning C4305: '=': truncation from 'double' to 'float'
+D:\Github\LegoInteractive\Final_PairAssignment\src\camera.cpp(139,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\camera.cpp(140,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\camera.cpp(141,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\camera.cpp(201,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\camera.cpp(206,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  FinalAssignment.cpp
+D:\Github\LegoInteractive\Final_PairAssignment\src\FinalAssignment.cpp(64,56): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Github\LegoInteractive\Final_PairAssignment\src\FinalAssignment.cpp(256,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\FinalAssignment.cpp(257,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\FinalAssignment.cpp(258,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\FinalAssignment.cpp(270,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\FinalAssignment.cpp(271,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\FinalAssignment.cpp(272,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\FinalAssignment.cpp(297,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\FinalAssignment.cpp(298,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\FinalAssignment.cpp(284,8): warning C4101: 'LegoSizeY': unreferenced local variable
+D:\Github\LegoInteractive\Final_PairAssignment\src\FinalAssignment.cpp(285,8): warning C4101: 'LegoSizeZ': unreferenced local variable
+D:\Github\LegoInteractive\Final_PairAssignment\src\FinalAssignment.cpp(283,8): warning C4101: 'LegoSizeX': unreferenced local variable
+D:\Github\LegoInteractive\Final_PairAssignment\src\FinalAssignment.cpp(403,23): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\FinalAssignment.cpp(403,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\FinalAssignment.cpp(578,99): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Github\LegoInteractive\Final_PairAssignment\src\FinalAssignment.cpp(581,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Github\LegoInteractive\Final_PairAssignment\src\FinalAssignment.cpp(588,44): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Github\LegoInteractive\Final_PairAssignment\src\FinalAssignment.cpp(597,43): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Github\LegoInteractive\Final_PairAssignment\src\FinalAssignment.cpp(599,48): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Github\LegoInteractive\Final_PairAssignment\src\FinalAssignment.cpp(619,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\FinalAssignment.cpp(630,12): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  grid.cpp
+  gridUnit.cpp
+  lego.cpp
+D:\Github\LegoInteractive\Final_PairAssignment\src\lego.cpp(34,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  legoGroup.cpp
+D:\Github\LegoInteractive\Final_PairAssignment\src\legoGroup.cpp(39,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  matrix2d.cpp
+D:\Github\LegoInteractive\Final_PairAssignment\src\matrix2d.cpp(11,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Github\LegoInteractive\Final_PairAssignment\src\matrix2d.cpp(232,21): warning C4305: '*=': truncation from 'double' to 'float'
+  matrix3d.cpp
+D:\Github\LegoInteractive\Final_PairAssignment\src\matrix3d.cpp(12,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Github\LegoInteractive\Final_PairAssignment\src\matrix3d.cpp(266,22): warning C4305: '*=': truncation from 'double' to 'float'
+  matrix4d.cpp
+D:\Github\LegoInteractive\Final_PairAssignment\src\matrix4d.cpp(11,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Github\LegoInteractive\Final_PairAssignment\src\matrix4d.cpp(385,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\matrix4d.cpp(386,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\matrix4d.cpp(387,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\matrix4d.cpp(396,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\matrix4d.cpp(397,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\matrix4d.cpp(398,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\matrix4d.cpp(541,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  mesh.cpp
+D:\Github\LegoInteractive\Final_PairAssignment\src\mesh.cpp(179,66): warning C4244: 'argument': conversion from 'double' to 'GLsizeiptr', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\mesh.cpp(181,72): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\mesh.cpp(187,68): warning C4244: 'argument': conversion from 'double' to 'GLsizeiptr', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\mesh.cpp(189,74): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\mesh.cpp(195,66): warning C4244: 'argument': conversion from 'double' to 'GLsizeiptr', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\mesh.cpp(197,72): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+  quaternion.cpp
+  sceneGraph.cpp
+D:\Github\LegoInteractive\Final_PairAssignment\src\sceneGraph.cpp(25,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\sceneGraph.cpp(25,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\sceneGraph.cpp(25,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\sceneGraph.cpp(26,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\sceneGraph.cpp(26,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Github\LegoInteractive\Final_PairAssignment\src\sceneGraph.cpp(26,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  shader.cpp
+  vector2d.cpp
+  vector3d.cpp
+D:\Github\LegoInteractive\Final_PairAssignment\src\vector3d.cpp(10,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  vector4d.cpp
+D:\Github\LegoInteractive\Final_PairAssignment\src\vector4d.cpp(11,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+D:\Github\LegoInteractive\Final_PairAssignment\src\vector4d.cpp(86): warning C4717: 'Vectors::vector4D::operator!=': recursive on all control paths, function will cause runtime stack overflow
+  Final_PairAssignment.vcxproj -> D:\Github\LegoInteractive\build\Debug\Final_PairAssignment.exe
