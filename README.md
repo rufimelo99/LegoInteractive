@@ -43,7 +43,7 @@ Members:
         <li><a href="#manipulating-legos">Manipulating Legos</a></li>
       </ul>
       <ul>
-        <li><a href="#collision-system-">Collision System</a></li>
+        <li><a href="#collision-system">Collision System</a></li>
       </ul>
       <ul>
         <li><a href="#grouping-legos">Grouping Legos</a></li>
@@ -272,12 +272,17 @@ Additionally, the groups should be kept when the user loads the project again. F
 
 The final result of those files should be something like this:
 
-*legoBlue;[10,0,2];src\legoBrickOK.obj;[0,0,1,1]
-lego;[10,0,6];src\lego22.obj;[0.5,0.5,0,1]
-legoGreen;[10,0,10];src\legoBrickOK.obj;[0,1,0,1]
-legoRed;[10,1,2];src\lego22.obj;[0.1,0,0,1]
-!!!!!!!!!!!!!!!!
-legoYellow>legoGreen*
+*legoBlue;[10,0,2];src\legoBrickOK.obj;[0,0,1,1]*
+
+*lego;[10,0,6];src\lego22.obj;[0.5,0.5,0,1]*
+
+*legoGreen;[10,0,10];src\legoBrickOK.obj;[0,1,0,1]*
+
+*legoRed;[10,1,2];src\lego22.obj;[0.1,0,0,1]*
+
+*!!!!!!!!!!!!!!!!*
+
+*legoYellow>legoGreen*
 
 
 ## Grouping Legos Implementation
