@@ -123,6 +123,7 @@ The main technical challenges when implementing the manipulation of legos was th
 ## Collision System
 
 To move legos, we should take into consideration some important points: the lego bricks can be placed in a discrete world, according to the “assemblage property” of a normal lego (like in real life). Then, we have to respect collisions: a brick cannot be placed in a position already occupied.
+
 ![](https://docs.google.com/drawings/u/0/d/sOsoB9tFhRtPyGyGRkr4NDw/image?w=554&h=179&rev=29&ac=1&parent=1dni9aXliebBUhrbbVpe-krAsoy3S_Dc_)  
 
 To handle these challenges, we use a grid configuration. This grid represents the 3D space where lego Bricks are allowed to be placed.
