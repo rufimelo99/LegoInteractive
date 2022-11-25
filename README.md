@@ -3,7 +3,9 @@
 <br />
 <p align="center">
   <h3 align="center">Lego Interactive</h3>
-
+  <p align="center">
+    <img src="https://github.com/rufimelo99/LegoInteractive/blob/main/lego.jpg" />
+  </p>
   <p align="center">
     The project allows the user to immerse in the Legos world and interact with some pieces.
     <br />
